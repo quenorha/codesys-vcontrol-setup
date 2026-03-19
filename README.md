@@ -16,8 +16,8 @@ CODESYS Virtual Control for Linux SL 4.19.0.0.package
 codemeter-lite_<version>_<arch>.deb
 ```
 
-> `.package` files are standard ZIP archives provided by CODESYS.  
-> `codemeter-lite` is available from [wibu.com/support/user/downloads-user-software.html](https://www.wibu.com/support/user/downloads-user-software.html).
+> `.package` files are standard ZIP archives provided by CODESYS or on the WAGO Download Center.  
+> `codemeter-lite` can be found in CODESYS installation C:\Program Files\CODESYS 3.5.X.X\CODESYS\CODESYS CodeMeter for Linux SL\Delivery
 
 ---
 
